@@ -4,10 +4,13 @@ SkeView is an annotation tool based on the theory of diagnosticity hypothesis ([
 - Image datasets:
   - **SK506**: SK506 (also known as SK-SMALL) was selected from the MS COCO dataset, with 506 natural images (300 for training and 206 for testing) and 16 object classes, including humans, animals, and artifacts. ([Shen et al. IEEE CVPR 2016](https://openaccess.thecvf.com/content_cvpr_2016/papers/Shen_Object_Skeleton_Extraction_CVPR_2016_paper.pdf))
   - **SK1491**: SK1491 (also known as SK-LARGE) is an extension of the SK506 by selecting more images from the MS COCO dataset. It includes 1,491 images (746 for training and 745 for testing). ([Shen et al. IEEE TIP 2017](https://ieeexplore.ieee.org/abstract/document/8000414))
-  - **SYMMAX300**: SYMMAX300 is adapted from the Berkeley Segmentation Dataset (BSDS300) with 300 images (200 for training and 100 for testing). There are multiple targets in most images. This dataset is used for local reflection symmetry detection, which is a low-level image feature, without paying attention to the concept of "object". (Tsogkas et al. ECCV 2012)
-  - **SymPASCAL**: SymPASCAL was selected from the PASCAL-VOC dataset, with 1,435 images (648 for training and 787 for testing). Most images contain multiple targets, partial visibility, and complex backgrounds. (IEEE CVPR 2017)
+  - **SYMMAX300**: SYMMAX300 is adapted from the Berkeley Segmentation Dataset (BSDS300) with 300 images (200 for training and 100 for testing). There are multiple targets in most images. This dataset is used for local reflection symmetry detection, which is a low-level image feature, without paying attention to the concept of "object". ([Tsogkas et al. ECCV 2012](https://inria.hal.science/hal-00856535/document))
+  - **SymPASCAL**: SymPASCAL was selected from the PASCAL-VOC dataset, with 1,435 images (648 for training and 787 for testing). Most images contain multiple targets, partial visibility, and complex backgrounds. ([Ke et al. IEEE CVPR 2017](https://openaccess.thecvf.com/content_cvpr_2017/papers/Ke_SRN_Side-output_Residual_CVPR_2017_paper.pdf))
+- Both image and shape datasets:
+  - **EM200**: EM200 contains 200 microscopic images (10 classes) of environmental microorganisms (EM). ([Yang et al. ICPR 2014](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ICPR-2014/data/5209d374.pdf))
+  - **SmithsonianLeaves**: SmithsonianLeaves contains 343 leaves (187 for training and 156 for testing) from 93 different species of plants. ([Ling et al. IEEE T-PAMI 2007](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=c9bb27a60b6c2555a4c01c4c0b8808f1e3625403))
   - 
-- bbb
+  - bbb 
 
 
 # MoireScape*
