@@ -4,6 +4,8 @@ SkeView is an annotation tool based on the theory of diagnosticity hypothesis ([
 
 <img src="skeview.jpg" height="300">
 
+## Datasets
+
 - Image datasets:
   - **SK506**: SK506 (also known as SK-SMALL) was selected from the MS COCO dataset, with 506 natural images (300 for training and 206 for testing) and 16 object classes, including humans, animals, and artifacts. ([Shen et al. IEEE CVPR 2016](https://openaccess.thecvf.com/content_cvpr_2016/papers/Shen_Object_Skeleton_Extraction_CVPR_2016_paper.pdf))
   - **SK1491**: SK1491 (also known as SK-LARGE) is an extension of the SK506 by selecting more images from the MS COCO dataset. It includes 1,491 images (746 for training and 745 for testing). ([Shen et al. IEEE TIP 2017](https://ieeexplore.ieee.org/abstract/document/8000414))
@@ -25,7 +27,7 @@ SkeView is an annotation tool based on the theory of diagnosticity hypothesis ([
   - **Tari56**: Tari56 contains 56 shapes (14 categories, 4 shapes each) for evaluating matching performance under visual transformations. Shapes of the same category show variations in orientation, scale, articulation, and small boundary details. ([Asian et al. ICCV 2005](https://ieeexplore.ieee.org/abstract/document/1544875))
 
 
-## Dataformat
+## Format
 
 Our proposed MoireScape dataset contains two subsets:
  - MoireScape-real: It contains 500 real image pairs for evaluating moiré edge map estimation. Each pair includes a real camera-captured screen image and its moiré layer with the setup in Fig. 3. To extract moire edge map from a moire layer, the more_layer_segmentation tool can be used.
