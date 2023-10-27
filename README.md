@@ -1,6 +1,6 @@
 # SkeView: Skeleton Ground Truth of Shape and Image Datasets
 
-SkeView is an annotation tool based on the theory of [diagnosticity hypothesis](http://www.ai.mit.edu/projects/dm/Tversky-features.pdf) (Amos Tversky, 1977) for shape and image skeletons. Based on SkeView, we annotate high-quality skeleton Ground Truth (GT) for 17 existing shape and image datasets.
+SkeView is an annotation tool based on the theory of diagnosticity hypothesis ([Amos Tversky, 1977](http://www.ai.mit.edu/projects/dm/Tversky-features.pdf)) for shape and image skeletons. Based on SkeView, we annotate high-quality skeleton Ground Truth (GT) for 17 existing shape and image datasets.
 - Image datasets:
   - **SK506**: SK506 (also known as SK-SMALL) was selected from the MS COCO dataset, with 506 natural images (300 for training and 206 for testing) and 16 object classes, including humans, animals, and artifacts. ([Shen et al. IEEE CVPR 2016](https://openaccess.thecvf.com/content_cvpr_2016/papers/Shen_Object_Skeleton_Extraction_CVPR_2016_paper.pdf))
   - **SK1491**: SK1491 (also known as SK-LARGE) is an extension of the SK506 by selecting more images from the MS COCO dataset. It includes 1,491 images (746 for training and 745 for testing). (Shen et al. IEEE TIP 2017)
