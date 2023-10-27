@@ -29,7 +29,7 @@ SkeView is an annotation tool based on the theory of diagnosticity hypothesis ([
 
 ## Format
 
-<img src="matlab.jpg" height="300">
+<img src="matlab.jpg" height="200">
 
 To ensure the smoothness of your research, we provide the original shapes/images, ground truth, and thumb on this page: 
 - **Original Shapes/Images**: Original data from various sources, such as GitHub pages, personal webpages, and email exchanges. To the best of our knowledge, this is the most complete zoo of existing shape and image datasets. We do our best to push this domain forward. If you find any copyright issues, please contact me via [email](https://cong-yang.github.io/).
@@ -47,18 +47,60 @@ To ensure the smoothness of your research, we provide the original shapes/images
 
 ## Download
 
-Our proposed MoireScape dataset contains two subsets:
- - MoireScape-real: It contains 500 real image pairs for eval
+You may download the aforementioned files via Google Drive or Baidu Disc based on your internet conditions:
+
+- **Baidu Disc**
+
+| Dataset  | Type | Original Data |  Ground Truth  |  Thumb  |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| SK506 | image  | Content Cell | Content Cell | Content Cell |
+| SK1491 | image  | Content Cell | Content Cell | Content Cell |
+| SYMMAX300  | image  | Content Cell | Content Cell | Content Cell |
+| SymPASCAL  | image  | Content Cell | Content Cell | Content Cell |
+| EM200  | image and shape  | Content Cell | Content Cell | Content Cell |
+| SmithsonianLeaves  | image and shape  | Content Cell | Content Cell | Content Cell |
+| WH-SYMMAX  | image and shape  | Content Cell | Content Cell | Content Cell |
+| Animal2000  | shape | Content Cell | Content Cell | Content Cell |
+| ArticulatedShapes  | shape  | Content Cell | Content Cell | Content Cell |
+| Kimia99  | shape  | Content Cell | Content Cell | Content Cell |
+| MPEG7  | shape  | Content Cell | Content Cell | Content Cell |
+| Kimia216  | shape  | Content Cell | Content Cell | Content Cell |
+| MPEG400  | shape  | Content Cell | Content Cell | Content Cell |
+| Tetrapod120  | shape  | Content Cell | Content Cell | Content Cell |
+| SwedishLeaves  | shape  | Content Cell | Content Cell | Content Cell |
+| Tari56  | shape  | Content Cell | Content Cell | Content Cell |
+
+
+- **Google Drive**
+
+| Dataset  | Type | Original Data |  Ground Truth  |  Thumb  |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| SK506 | image  | Content Cell | Content Cell | Content Cell |
+| SK1491 | image  | Content Cell | Content Cell | Content Cell |
+| SYMMAX300  | image  | Content Cell | Content Cell | Content Cell |
+| SymPASCAL  | image  | Content Cell | Content Cell | Content Cell |
+| EM200  | image and shape  | Content Cell | Content Cell | Content Cell |
+| SmithsonianLeaves  | image and shape  | Content Cell | Content Cell | Content Cell |
+| WH-SYMMAX  | image and shape  | Content Cell | Content Cell | Content Cell |
+| Animal2000  | shape | Content Cell | Content Cell | Content Cell |
+| ArticulatedShapes  | shape  | Content Cell | Content Cell | Content Cell |
+| Kimia99  | shape  | Content Cell | Content Cell | Content Cell |
+| MPEG7  | shape  | Content Cell | Content Cell | Content Cell |
+| Kimia216  | shape  | Content Cell | Content Cell | Content Cell |
+| MPEG400  | shape  | Content Cell | Content Cell | Content Cell |
+| Tetrapod120  | shape  | Content Cell | Content Cell | Content Cell |
+| SwedishLeaves  | shape  | Content Cell | Content Cell | Content Cell |
+| Tari56  | shape  | Content Cell | Content Cell | Content Cell |
  
 ## Citation
 
 If you benefit from this work, please cite the mentioned and our paper:
 
-	@article{Yang2023Moire,
-		author = {Cong Yang and Zhenyu Yang and Yan Ke and Tao Chen and Marcin Grzegorzek and John See},
-		title = {Doing More With Moiré Pattern Detection in Digital Photos},
-		journal = {IEEE Transactions on Image Processing},
-            volume = {32},
-            pages = {694-708},
+	@article{Yang2023SkeView,
+		author = {Yang, Cong and Indurkhya, Bipin and See, John and Gao, Bo and Ke, Yan and Boukhers, Zeyd and Yang, Zhenyu and Grzegorzek, Marcin},
+		title = {Skeleton Ground Truth Extraction: Methodology, Annotation Tool and Benchmarks},
+		journal = {International Journal of Computer Vision},
+            volume = {},
+            pages = {1-23},
             year = {2023}
 	}
