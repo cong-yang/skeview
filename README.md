@@ -29,11 +29,21 @@ SkeView is an annotation tool based on the theory of diagnosticity hypothesis ([
 
 ## Format
 
-Our proposed MoireScape dataset contains two subsets:
- - MoireScape-real: It contains 500 real image pairs for evaluating moiré edge map estimation. Each pair includes a real camera-captured screen image and its moiré layer with the setup in Fig. 3. To extract moire edge map from a moire layer, the more_layer_segmentation tool can be used.
- - MoireScape-synthetic: It contains 18,147 different moiré layers and 4,000 natural images. After varying moiré layers and the their combinations, 50,000 synthetic triplets are collected for the purpose of training (90%) and testing(10%). Each triplet contains a natural image, a moiré layer, and their synthetic mixture.
+<img src="matlab.jpg" height="300">
 
-*: Since each subset surpass 25M, please download them via the online disc link in each text file. 
+To ensure the smoothness of your research, we provide the original shapes/images, ground truth, and thumb on this page: 
+- **Original Shapes/Images**: Original data from various sources, such as GitHub pages, personal webpages, and email exchanges. To the best of our knowledge, this is the most complete zoo of existing shape and image datasets. We do our best to push this domain forward. If you find any copyright issues, please contact me via [email](https://cong-yang.github.io/).
+- **Ground Truth**: With .mat and .png formats.
+  - .mat: for Matlab users. Each file contains three cells:
+    - cell 1: binary shape (aa = mysaving_mat{1};)
+    - cell 2: component of ground truth (aa = mysaving_mat{2};), with two sub_cells:
+      - sub_cell 1: list of endpoints;
+      - sub_cell 2: list of branches; Each branch is represented by endpoint1, endpoint2, and skeleton path between them. Users can conveniently evaluate skeleton matching methods (e.g., [skeleton path similarity](https://ieeexplore.ieee.org/document/4359369)) with them.
+    - cell 3: binary skeleton ground truth (aa = mysaving_mat{3};)
+  - .png: for Python users. A binary image with skeleton ground truth. Alternatively, users can covert the endpoint and branch lists from .mat files.
+- **Thumb**: Visualization of the integrated shape/image and the ground truth.
+
+*: Since each zip file surpasses 25M, please download them via the Google Drive disc links in the Download section.
 
 ## Download
 
