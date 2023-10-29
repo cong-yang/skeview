@@ -49,28 +49,6 @@ To ensure the smoothness of your research, we provide the original shapes/images
 
 You may download the aforementioned files via Google Drive or Baidu Disc based on your internet conditions:
 
-- **Baidu Disc**
-
-| Dataset  | Type | Original Data |  Ground Truth  |  Thumb  |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| SK506 | image  | Content Cell | Content Cell | Content Cell |
-| SK1491 | image  | Content Cell | Content Cell | Content Cell |
-| SYMMAX300  | image  | Content Cell | Content Cell | Content Cell |
-| SymPASCAL  | image  | Content Cell | Content Cell | Content Cell |
-| EM200  | image and shape  | Content Cell | Content Cell | Content Cell |
-| SmithsonianLeaves  | image and shape  | Content Cell | Content Cell | Content Cell |
-| WH-SYMMAX  | image and shape  | Content Cell | Content Cell | Content Cell |
-| Animal2000  | shape | Content Cell | Content Cell | Content Cell |
-| ArticulatedShapes  | shape  | Content Cell | Content Cell | Content Cell |
-| Kimia99  | shape  | Content Cell | Content Cell | Content Cell |
-| MPEG7  | shape  | Content Cell | Content Cell | Content Cell |
-| Kimia216  | shape  | Content Cell | Content Cell | Content Cell |
-| MPEG400  | shape  | Content Cell | Content Cell | Content Cell |
-| Tetrapod120  | shape  | Content Cell | Content Cell | Content Cell |
-| SwedishLeaves  | shape  | Content Cell | Content Cell | Content Cell |
-| Tari56  | shape  | Content Cell | Content Cell | Content Cell |
-
-
 - **Google Drive**
 
 | Dataset  | Type | Original Data |  Ground Truth  |  Thumb  |
@@ -91,6 +69,8 @@ You may download the aforementioned files via Google Drive or Baidu Disc based o
 | Tetrapod120  | shape  | Content Cell | Content Cell | Content Cell |
 | SwedishLeaves  | shape  | Content Cell | Content Cell | Content Cell |
 | Tari56  | shape  | Content Cell | Content Cell | Content Cell |
+
+- **Baidu Disc** Todo
  
 ## Citation
 
