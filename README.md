@@ -47,34 +47,35 @@ To ensure the smoothness of your research, we provide the original shapes/images
 
 ## Download
 
-You may download the aforementioned files via Google Drive or Baidu Disc based on your internet conditions:
+Freely download the aforementioned files independently or in one folder from Google Drive based on your needs:
 
-- **Google Drive**
+- **Independently**
 
 | Dataset  | Type | Original Data |  Ground Truth  |  Thumb  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | SK506 | image | [Download](https://drive.google.com/file/d/1YT7e2xejEhQ-rmkDk2TFEzjHrFbK4Yuw/view?usp=sharing) | [Download](https://drive.google.com/file/d/1XDEashqwtZh_0mck48h82A7IwEA-j5rg/view?usp=sharing) | [Download](https://drive.google.com/file/d/1MZKJcRI1Vtyn0Lv_-g-LnWuFFgQyu425/view?usp=sharing) |
 | SK1491 | image  | [Download](https://drive.google.com/file/d/1yTlI7b-XC4PHA2NW_sT2OO2ZQrhHRHoe/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1vlGFOy1PzgMuojwXLPLPatHsE5lzzU1r/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1glKWiY8B5almi9N5k0bMm9KRhzlRifYR/view?usp=drive_link) |
-| SYMMAX300  | image  | [Download](https://drive.google.com/file/d/1XxgY-7TbiJVaWp9FMhc8f0Vr7R2gG57o/view?usp=sharing) | [Download]() | [Download]() |
-| SymPASCAL  | image  | [Download]() | [Download]() | [Download]() |
-| EM200  | image and shape  | [Download]() | [Download]() | [Download]() |
-| SmithsonianLeaves  | image and shape  | [Download]() | [Download]() | [Download]() |
-| WH-SYMMAX  | image and shape  | [Download]() | [Download]() | [Download]() |
-| Animal2000  | shape | [Download]() | [Download]() | [Download]() |
-| ArticulatedShapes  | shape  | [Download]() | [Download]() | [Download]() |
-| Kimia99  | shape  | [Download]() | [Download]() | [Download]() |
-| MPEG7  | shape  | [Download]() | [Download]() | [Download]() |
-| Kimia216  | shape  | [Download]() | [Download]() | [Download]() |
-| MPEG400  | shape  | [Download]() | [Download]() | [Download]() |
-| Tetrapod120  | shape  | [Download]() | [Download]() | [Download]() |
-| SwedishLeaves  | shape  | [Download]() | [Download]() | [Download]() |
-| Tari56  | shape  | [Download]() | [Download]() | [Download]() |
+| SYMMAX300  | image  | [Download](https://drive.google.com/file/d/1XxgY-7TbiJVaWp9FMhc8f0Vr7R2gG57o/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1ZHhgy8u1xM_nNk1ZWC4q_24RfkKdJbyM/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1tWi7ynb5WPOZMtB8rIJANNrf-f-2tbC_/view?usp=drive_link) |
+| SymPASCAL  | image  | [Download](https://drive.google.com/file/d/1yYTkuDNQTI1UMHRb5y6jxnpbOFcRQgkt/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1WoqEcJ8y3iGJPkSOxO_wY4MC2GDV9LSI/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1NHJny7Ft3y04_NAhT6yOFzyC1aEfzwR2/view?usp=drive_link) |
+| EM200  | image and shape  | [Download](https://drive.google.com/file/d/1MsXX83xSs_ZrhODErrMXzHpWGVdjW2n4/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1dxDGnokJmA6x1yal_0KrppA2j38OhBUg/view?usp=drive_link) | [Download](https://drive.google.com/file/d/11zV4g7dl0DH_KWgBGwtiQLwZPLrjglE-/view?usp=drive_link) |
+| SmithsonianLeaves  | image and shape  | [Download](https://drive.google.com/file/d/12hNjLCWaQh0FmDCwIXUIf4pI3H__ygSm/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1iC0oU-tNAqA8inOGQciJqJSL3Ud7bJ6R/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1QtspopRC04HhNSLsnb_V6KN9xpt1fLZ7/view?usp=drive_link) |
+| WH-SYMMAX  | image and shape  | [Download](https://drive.google.com/file/d/1OQzi5goTCVaqQsL30S4sEhYBq3FUIv_Z/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1h4WjROuocIhEdxU1nn2KmS8IcIDjw754/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1sRYLmjPPHCgsgLqVn2U_4ZisKreVyPnV/view?usp=drive_link) |
+| Animal2000  | shape | [Download](https://drive.google.com/file/d/1vmksd2CRLihgYa__WH95ouAiu4CFoeNm/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1Fjrfx6pph2oFTqRz5tdScB85yeWy-2l2/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1oxtsKDtdNKUd_5lLGVYYwoY1oOZNc9b9/view?usp=drive_link) |
+| ArticulatedShapes  | shape  | [Download](https://drive.google.com/file/d/1wzA4T7-8iDYyXGj1g81HXq_uWN5HwysA/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1d8RuEux48vVtMy-bukBX-IsMftQZOauI/view?usp=sharing) | [Download](https://drive.google.com/file/d/1iI75OA5udE3OPhYUXcQi2J46d_puctcO/view?usp=drive_link) |
+| Kimia99  | shape  | [Download](https://drive.google.com/file/d/1mWIrVJ127d-3UTx8fDuSv9IeAVIIpCAG/view?usp=drive_link) | [Download](https://drive.google.com/file/d/14O9Q4bmdaTk-W_8bEDXiXZQGc-7hi7pW/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1FR1f6GFm-letWhJuzYtYTWKjtb1Ivc5X/view?usp=drive_link) |
+| MPEG7  | shape  | [Download](https://drive.google.com/file/d/1W4n8gdi0wOx3YPcqlmVd1cEn5pXsIyyJ/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1_drMe5Tba-A9Fr1VtJFGAX0FP2jBQU9R/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1k_4qfSx_j6pXo4B4VGuR9dZM1ZbW4PbP/view?usp=drive_link) |
+| Kimia216  | shape  | [Download](https://drive.google.com/file/d/16KyJRlAWJmGe32EN75aoZH7D3XHMXAxb/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1D_wLfITpmRRhy00zXdZWK9-XPdXYRYK9/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1qSv8sOX7kfUXE8rHUHhMp9jq-dvqjYrn/view?usp=drive_link) |
+| MPEG400  | shape  | [Download](https://drive.google.com/file/d/1Vf3H7oP1PSIdtxqo0-6lVrmEKnY3p2xV/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1m04__AhdUy0d_uKk5pmOGQb-6GIcT_wD/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1yHh3veW5h8U88nIfWykRiz4ugGB3-apG/view?usp=drive_link) |
+| Tetrapod120  | shape  | [Download](https://drive.google.com/file/d/1P-DXfDNHoFZiBEk2wXB91w8tHzuPTT5o/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1vtawOSMS4qT9slYSc19ybHIWnNarybEg/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1Zvtosxz6y_l6vrDgjYH50QAi2yEi1pR4/view?usp=drive_link) |
+| SwedishLeaves  | shape  | [Download](https://drive.google.com/file/d/1y9EwKsq_dnNLNkz7gnMCADG2nmh3zqJr/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1V_9CcW_sXtj9N5cAkyhTEk5IPQ-L6g3C/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1eOwKIB0N_MBrc0dFBm0T680uqNZ4wAo2/view?usp=drive_link) |
+| Tari56  | shape  | [Download](https://drive.google.com/file/d/13uX2SW19dJJeGzgD2Tg0jvFeqz-hgvHh/view?usp=drive_link) | [Download](https://drive.google.com/file/d/17DKRw8Y-g07WMexCcBpS3WmXgsQylooW/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1de3F4mhJUVMsdaME8nto-mdm8fTtbvHY/view?usp=drive_link) |
 
-- **All in One Zip** Todo
+- **All in One Folder**
+  - [Download](https://drive.google.com/drive/folders/1F1TEZOgShNSGZn2uBtbw0xYen25zsPn9?usp=sharing)
  
 ## Citation
 
-If you benefit from this work, please cite the mentioned and our paper:
+If you benefit from this work, please cite our paper:
 
 	@article{Yang2023SkeView,
 		author = {Yang, Cong and Indurkhya, Bipin and See, John and Gao, Bo and Ke, Yan and Boukhers, Zeyd and Yang, Zhenyu and Grzegorzek, Marcin},
