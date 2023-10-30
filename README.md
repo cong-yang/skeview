@@ -1,6 +1,6 @@
 # SkeView: Skeleton Ground Truth of Shape and Image Datasets
 
-SkeView is an annotation tool based on the theory of diagnosticity hypothesis ([Amos Tversky, Psychological Review, 1977](http://www.ai.mit.edu/projects/dm/Tversky-features.pdf)) for shape and image skeletons. Based on SkeView, we annotate high-quality skeleton Ground Truth (GT) for 17 existing shape and image datasets.
+SkeView is an annotation tool based on the theory of diagnosticity hypothesis ([Amos Tversky, Psychological Review, 1977](http://www.ai.mit.edu/projects/dm/Tversky-features.pdf)) for shape and image skeletons. Based on SkeView, we annotate high-quality skeleton Ground Truth (GT) of 17 existing shape and image datasets.
 
 <img src="skeview.jpg" height="250">
 
@@ -53,24 +53,24 @@ You may download the aforementioned files via Google Drive or Baidu Disc based o
 
 | Dataset  | Type | Original Data |  Ground Truth  |  Thumb  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| SK506 | image  | Content Cell | Content Cell | Content Cell |
-| SK1491 | image  | Content Cell | Content Cell | Content Cell |
-| SYMMAX300  | image  | Content Cell | Content Cell | Content Cell |
-| SymPASCAL  | image  | Content Cell | Content Cell | Content Cell |
-| EM200  | image and shape  | Content Cell | Content Cell | Content Cell |
-| SmithsonianLeaves  | image and shape  | Content Cell | Content Cell | Content Cell |
-| WH-SYMMAX  | image and shape  | Content Cell | Content Cell | Content Cell |
-| Animal2000  | shape | Content Cell | Content Cell | Content Cell |
-| ArticulatedShapes  | shape  | Content Cell | Content Cell | Content Cell |
-| Kimia99  | shape  | Content Cell | Content Cell | Content Cell |
-| MPEG7  | shape  | Content Cell | Content Cell | Content Cell |
-| Kimia216  | shape  | Content Cell | Content Cell | Content Cell |
-| MPEG400  | shape  | Content Cell | Content Cell | Content Cell |
-| Tetrapod120  | shape  | Content Cell | Content Cell | Content Cell |
-| SwedishLeaves  | shape  | Content Cell | Content Cell | Content Cell |
-| Tari56  | shape  | Content Cell | Content Cell | Content Cell |
+| SK506 | image | [Download](https://drive.google.com/file/d/1YT7e2xejEhQ-rmkDk2TFEzjHrFbK4Yuw/view?usp=sharing) | [Download](https://drive.google.com/file/d/1XDEashqwtZh_0mck48h82A7IwEA-j5rg/view?usp=sharing) | [Download](https://drive.google.com/file/d/1MZKJcRI1Vtyn0Lv_-g-LnWuFFgQyu425/view?usp=sharing) |
+| SK1491 | image  | [Download](https://drive.google.com/file/d/1yTlI7b-XC4PHA2NW_sT2OO2ZQrhHRHoe/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1vlGFOy1PzgMuojwXLPLPatHsE5lzzU1r/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1glKWiY8B5almi9N5k0bMm9KRhzlRifYR/view?usp=drive_link) |
+| SYMMAX300  | image  | [Download](https://drive.google.com/file/d/1XxgY-7TbiJVaWp9FMhc8f0Vr7R2gG57o/view?usp=sharing) | [Download]() | [Download]() |
+| SymPASCAL  | image  | [Download]() | [Download]() | [Download]() |
+| EM200  | image and shape  | [Download]() | [Download]() | [Download]() |
+| SmithsonianLeaves  | image and shape  | [Download]() | [Download]() | [Download]() |
+| WH-SYMMAX  | image and shape  | [Download]() | [Download]() | [Download]() |
+| Animal2000  | shape | [Download]() | [Download]() | [Download]() |
+| ArticulatedShapes  | shape  | [Download]() | [Download]() | [Download]() |
+| Kimia99  | shape  | [Download]() | [Download]() | [Download]() |
+| MPEG7  | shape  | [Download]() | [Download]() | [Download]() |
+| Kimia216  | shape  | [Download]() | [Download]() | [Download]() |
+| MPEG400  | shape  | [Download]() | [Download]() | [Download]() |
+| Tetrapod120  | shape  | [Download]() | [Download]() | [Download]() |
+| SwedishLeaves  | shape  | [Download]() | [Download]() | [Download]() |
+| Tari56  | shape  | [Download]() | [Download]() | [Download]() |
 
-- **Baidu Disc** Todo
+- **All in One Zip** Todo
  
 ## Citation
 
