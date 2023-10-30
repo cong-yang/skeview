@@ -72,7 +72,7 @@ Freely download the aforementioned files independently or in one folder from Goo
 | SwedishLeaves  | shape  | [Download](https://drive.google.com/file/d/1y9EwKsq_dnNLNkz7gnMCADG2nmh3zqJr/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1V_9CcW_sXtj9N5cAkyhTEk5IPQ-L6g3C/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1eOwKIB0N_MBrc0dFBm0T680uqNZ4wAo2/view?usp=drive_link) |
 | Tari56  | shape  | [Download](https://drive.google.com/file/d/13uX2SW19dJJeGzgD2Tg0jvFeqz-hgvHh/view?usp=drive_link) | [Download](https://drive.google.com/file/d/17DKRw8Y-g07WMexCcBpS3WmXgsQylooW/view?usp=drive_link) | [Download](https://drive.google.com/file/d/1de3F4mhJUVMsdaME8nto-mdm8fTtbvHY/view?usp=drive_link) |
 
-- **All in One Folder**
+- **All in one folder**
   - [Download](https://drive.google.com/drive/folders/1F1TEZOgShNSGZn2uBtbw0xYen25zsPn9?usp=sharing)
  
 ## Citation
