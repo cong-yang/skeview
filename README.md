@@ -2,7 +2,7 @@
 
 SkeView is an annotation tool based on the theory of diagnosticity hypothesis ([Amos Tversky, Psychological Review, 1977](http://www.ai.mit.edu/projects/dm/Tversky-features.pdf)) for shape and image skeletons. Based on SkeView, we annotate high-quality skeleton Ground Truth (GT) of 16 existing shape and image datasets. 
 
-Paper link: [https://arxiv.org/abs/2310.06437](https://arxiv.org/abs/2310.06437) (Accepted by IJCV 2023).
+Paper link: [https://link.springer.com/article/10.1007/s11263-023-01926-3](https://link.springer.com/article/10.1007/s11263-023-01926-3) (Accepted by IJCV 2023).
 
 <img src="skeview.jpg" height="250">
 
